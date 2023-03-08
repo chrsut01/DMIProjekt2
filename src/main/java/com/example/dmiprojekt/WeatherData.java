@@ -44,6 +44,7 @@ public class WeatherData {
         return datoTid;
     }
 
+
     public String getPrecip() {
         return precip;
     }

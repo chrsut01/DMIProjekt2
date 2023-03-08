@@ -17,7 +17,6 @@ public class Station {
         this.setup = setup;
     }
 
-
     public String getStationID() {
         return stationID;
     }
